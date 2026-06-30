@@ -1,7 +1,7 @@
 # Net-Guard-Solutions-Portugues
 # NetGuard Pro — Enterprise Network Security & Optimization
 
-│ [Português] │ [Español](README.es.md) │
+│ [Português] │
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-v1.0.0--release-blue)
